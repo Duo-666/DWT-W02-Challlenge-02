@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.student-profile {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 300px;
+  margin: 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.student-profile h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.student-profile p {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.student-profile h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.student-profile ul {
+  list-style: none;
+  padding: 0 15px;
+}
+
+.student-profile li {
+  background-color: #f0f0f0;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 4px;
+}
